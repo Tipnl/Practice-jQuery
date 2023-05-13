@@ -1,0 +1,50 @@
+.redDiv {
+  background-color: red;
+  width: 300px;
+  height: 75px;
+}
+
+.blueDiv {
+  background-color: blue;
+  width: 300px;
+  height: 75px;
+  margin-left: 10px;
+}
+
+.container-redblue,
+.container-orangegreen,
+.container-brownyellow {
+  display: flex;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.orangeDiv {
+  background-color: orange;
+  width: 300px;
+  height: 180px;
+}
+
+.greenDiv {
+  background-color: green;
+  width: 300px;
+  height: 180px;
+  margin-left: 10px;
+}
+
+.addedClass {
+  background-color: white;
+}
+
+.brownDiv {
+  background-color: brown;
+  width: 300px;
+  height: 130px;
+}
+
+.yellowDiv {
+  background-color: yellow;
+  width: 300px;
+  height: 130px;
+  margin-left: 10px;
+}
